@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📝 I regularly write articles on [GeeksforGeeks](auth.geeksforgeeks.org/user/ankitsinghrajput/profile)
+- 📝 I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/ankitsinghrajput/profile)
 
 - 💬 Ask me anything about **tech.**
 
