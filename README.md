@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📝 I regularly write articles on [GeeksforGeeks](GeeksforGeeks)
+- 📝 I regularly write articles on [GeeksforGeeks](auth.geeksforgeeks.org/user/ankitsinghrajput/profile)
 
 - 💬 Ask me anything about **tech.**
 
-- 📫 How to reach me **ankitrajput6622@gmail.com**
+- 📫 You can reach me at **ankitrajput6622@gmail.com**
 
 <p align="center"> <a href="https://twitter.com/ankitsi66721667" target="blank"><img src="https://img.shields.io/twitter/follow/ankitsi66721667?logo=twitter&style=for-the-badge" alt="ankitsi66721667" /></a> </p>
 
