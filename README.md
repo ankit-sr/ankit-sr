@@ -16,7 +16,7 @@
 
 - 📫 You can reach me at **ankitrajput6622@gmail.com**
 
-<p align="center"> <a href="https://twitter.com/ankitsi66721667" target="blank"><img src="https://img.shields.io/twitter/follow/ankitsi66721667?logo=twitter&style=for-the-badge" alt="ankitsi66721667" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ankitsi66721667" target="blank"><img src="https://img.shields.io/twitter/follow/_ankit_sr?logo=twitter&style=for-the-badge" alt="_ankit_sr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
