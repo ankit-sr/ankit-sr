@@ -18,13 +18,13 @@
 
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1-HFuWS2t-Po8s3XZtQo1jmE2xV7BSZr4/view?usp=sharing)
 
-<p align="center"> <a href="https://twitter.com/_ankit_sr" target="blank"><img src="https://img.shields.io/twitter/follow/_ankit_sr?logo=twitter&style=for-the-badge" alt="_ankit_sr" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_ankit_sr" target="_blank"><img src="https://img.shields.io/twitter/follow/_ankit_sr?logo=twitter&style=for-the-badge" alt="_ankit_sr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankit-singh-rajput" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit-singh-rajput" height="30" width="40" /></a>
-<a href="https://instagram.com/_ankit_rajput_12_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_ankit_rajput_12_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankitsinghrajput/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ankitsinghrajput/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-singh-rajput" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit-singh-rajput" height="30" width="40" /></a>
+<a href="https://instagram.com/_ankit_rajput_12_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_ankit_rajput_12_" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankitsinghrajput/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ankitsinghrajput/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
